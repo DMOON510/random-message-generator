@@ -1,0 +1,22 @@
+body {
+  background-color: #C1D6E4;
+}
+h1 {
+  font-family: 'Squada One', cursive;
+  color:#E99FB1;
+  font-size: 65px;
+}
+img {
+  height: 150px;
+}
+button {
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18%;
+}
+.baby-name {
+  color: #A5CA84;
+  font-size: 40px;
+}
